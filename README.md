@@ -22,6 +22,7 @@ CT-GateNet is an innovative hybrid architecture designed for high-performance mu
 | **FMA-Medium** | Unbalanced | **69.07%** | - | - | - |
 
 ---
+<img width="1218" height="545" alt="fmaresult" src="https://github.com/user-attachments/assets/a834d412-8b96-45b1-b734-ea57df9e73a1" />
 
 ## 📂 Repository Structure
 
