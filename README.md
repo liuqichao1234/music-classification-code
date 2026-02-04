@@ -13,7 +13,8 @@ CT-GateNet is an innovative hybrid architecture designed for high-performance mu
 2.  **Transformer Branch**: Models long-range global temporal dependencies.
 3.  **Gated Channel-Spatial Attention (GCSA)**: Enhances feature discriminability.
 4.  **Adaptive Feature Fusion Gate (AFFG)**: Dynamically balances contributions from both branches.
-[Uploading ct-g.pdf…]()
+<img width="1376" height="828" alt="image" src="https://github.com/user-attachments/assets/0bce469e-349a-4b7a-a9d0-3adb1e35926b" />
+
 
 ### Key Results
 | Dataset | Type | Accuracy | Precision | Recall | F1-Score |
