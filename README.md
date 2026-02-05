@@ -110,10 +110,5 @@ Model weights and checkpoints can be downloaded from the following links:
 
 ## 📝 Citation
 ```bibtex
-@article{ma2026adaptive,
-  title={Adaptive Feature Fusion Gate and Gated Channel-Spatial Attention in CNN-Transformer Models for Music Genre Classification},
-  author={Ma, Yunyan and Ding, Zhenwu and Wan, Shuang and Li, Hui and Xu, Yuan},
-  journal={PLOS One},
-  year={2026}
-}
+
 ```
