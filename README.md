@@ -80,6 +80,7 @@ To alleviate data scarcity or imbalance, use the Denoising Diffusion Probabilist
 ```bash
 python generative_model/generating_music.py
 ```
+<img width="1490" height="465" alt="image" src="https://github.com/user-attachments/assets/6adf2515-24ca-4550-922d-6f8449db18e3" />
 
 ### Step 2: Training
 Train the CT-GateNet model on your chosen dataset:
